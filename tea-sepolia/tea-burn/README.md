@@ -19,7 +19,7 @@ This is an automated script to interact with the `burn()` function on the Tea Se
 Each week, a portion of the TEA accumulated in the pool contract is distributed to the top participants on the leaderboard.
 
 - 🏆 **Top Burners** will receive TEA rewards based on their ranking.
-- 📊 **Leaderboard updates automatically** at [tea-burn.truthnode.xyz](https://tea-burn.truthnode.xyz).
+- 📊 **Leaderboard updates automatically** at [TEA BURN GAME](https://tea-burn.truthnode.xyz).
 - 🔄 **Rewards are distributed every week**, so keep burning to climb the ranks!
 
 ---
