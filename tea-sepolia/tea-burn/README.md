@@ -27,7 +27,7 @@ Each week, a portion of the TEA accumulated in the pool contract is distributed 
 ## 🔍 Smart Contract Details
 - **Network**: Tea Sepolia Testnet  
 - **Contract Address**: `0x2Ea52eeA63Bcf6a185cd2a616420f08B4E879De6`  
-- **Block Explorer**: [View Contract](https://sepolia.tea.xyz/)
+- **Block Explorer**: [View Contract](https://sepolia.tea.xyz/0x2Ea52eeA63Bcf6a185cd2a616420f08B4E879De6)
 
 ---
 
