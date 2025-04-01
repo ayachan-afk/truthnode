@@ -2,7 +2,7 @@
 
 This is an automated script to interact with the `burn()` function on the Tea Sepolia testnet. The script periodically sends `0.01 TEA` to burn, waits for transaction confirmation, and then pauses for a random interval between `5 to 60 minutes` before repeating the process.
 
-🔗 **Leaderboard**: [tea-burn.truthnode.xyz](https://tea-burn.truthnode.xyz)
+🔗 **Leaderboard**: [TEA BURN GAME](https://tea-burn.truthnode.xyz)
 
 ---
 
