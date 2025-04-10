@@ -18,7 +18,7 @@ This is an automated script to interact with the `burn()` function on the Tea Se
 ## 💰 3 Days TEA Rewards
 Each 3 Days, a portion of the TEA accumulated in the pool contract is distributed to the top participants on the leaderboard.
 
-- 🏆 **Top 10 Burners** will receive TEA rewards based on their ranking.
+- 🏆 **Top 3 Burners** will receive TEA rewards based on their ranking.
 - 📊 **Leaderboard updates automatically** at [TEA BURN GAME](https://tea-burn.truthnode.xyz).
 - 🔄 **Rewards are distributed every week**, so keep burning to climb the ranks!
 
@@ -27,7 +27,7 @@ Each 3 Days, a portion of the TEA accumulated in the pool contract is distribute
 ## 🔍 Smart Contract Details
 - **Network**: Tea Sepolia Testnet  
 - **Contract Address**: `0x2Ea52eeA63Bcf6a185cd2a616420f08B4E879De6`  
-- **Block Explorer**: [View Contract](https://sepolia.tea.xyz/0x2Ea52eeA63Bcf6a185cd2a616420f08B4E879De6)
+- **Block Explorer**: [View Contract](https://sepolia.tea.xyz/address/0x2Ea52eeA63Bcf6a185cd2a616420f08B4E879De6)
 
 ---
 
